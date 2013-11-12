@@ -57,7 +57,7 @@ kindly use these instructions : http://dev.mysql.com/doc/refman/5.1/en/windows-i
 
 Java jdk:
 
-Installing on Linux / Ubuntu.
+- Installing on Linux / Ubuntu.
 
 Step 1: Open Application>> Accessories>> Terminal
 
