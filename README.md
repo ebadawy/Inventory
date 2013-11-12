@@ -1,2 +1,4 @@
-Inventory
-=========
+Welcom to the Inventory Project!
+================================
+
+
