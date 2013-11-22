@@ -1,4 +1,4 @@
-Welcom to the Inventory Project!
+Inventory Project
 ================================
 
 - inventory project is still in the alpha version that made to help you with the database and invetory stuff, if you need to add any feauture please feel free to contact me.
